@@ -1,4 +1,4 @@
-![enter image description here](https://f0.pngfuel.com/png/1008/422/round-greater-than-and-minus-illustratuion-png-clip-art.png =100x)
+![AWK](https://f0.pngfuel.com/png/1008/422/round-greater-than-and-minus-illustratuion-png-clip-art.png =100x)
 
 ## Struktura
 
