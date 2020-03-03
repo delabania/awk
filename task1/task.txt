@@ -1,0 +1,1 @@
+Wypisz drugą kolumnę pięćdziesięciu pierwszych, spośród ostatnich stu linii w pliku z demografią.

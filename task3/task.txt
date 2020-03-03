@@ -1,0 +1,1 @@
+Zmodyfikuj plik z demografią, tak by odpowiedzi panelistów na ostatnie pytanie miały wartość o 1 większą niż w pliku źródłowym
