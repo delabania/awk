@@ -1,9 +1,7 @@
-![AWK](https://f0.pngfuel.com/png/1008/422/round-greater-than-and-minus-illustratuion-png-clip-art.png =100x)
-
 ## Struktura
 
 W katalogu _files_ znajdują się przykładowe pliki z demografią panelistów.
-Następnie, w katalogach _task*_ znajdują się poszczególne zadania.
+Następnie, w katalogach _task$_ znajdują się poszczególne zadania.
 
 W każdym katalogu są dwa pliki:
 * _task.txt_ zawierający treść zadania
