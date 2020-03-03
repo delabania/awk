@@ -1,0 +1,1 @@
+Wypisz panelistów, których ciasteczko kończy się na liczbę 24

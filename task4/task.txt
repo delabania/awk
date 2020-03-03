@@ -1,0 +1,1 @@
+Wypisz tylko tych panelistów, którzy na pytanie 5 dali odpowiedz 6.
